@@ -1,0 +1,54 @@
+{
+    "CET221": {
+        "name": "ComputerOrganization",
+        "max_grade": "100"
+    },
+    "HUM311": {
+        "name": "EnglishLanguageII",
+        "max_grade": "100"
+    },
+    "CET111": {
+        "name": "IntroductiontoComputerandProgramming",
+        "max_grade": "100"
+    },
+    "EPT111": {
+        "name": "ComputerAidedEngineeringDrawing",
+        "max_grade": "100"
+    },
+    "GEN111": {
+        "name": "AppliedMathematicsI",
+        "max_grade": "100"
+    },
+    "CET112": {
+        "name": "ObjectOrientedProgramming",
+        "max_grade": "100"
+    },
+    "CET141": {
+        "name": "DatabaseManagementSystems",
+        "max_grade": "100"
+    },
+    "CET161": {
+        "name": "NetworkBasics",
+        "max_grade": "100"
+    },
+    "GEN112": {
+        "name": "AppliedDiscreteMathematics",
+        "max_grade": "100"
+    },
+    "CET212": {
+        "name": "OperatingSystems",
+        "max_grade": "100"
+    },
+    "CET214": {
+        "name": "WebProgramming",
+        "max_grade": "100"
+    },
+    "CET233": {
+        "name": "DigitalForensicsFundamental",
+        "max_grade": "100"
+    },
+    "CET262": {
+        "name": "NetworkOperationandManagement",
+        "max_grade": "100"
+    }
+}
